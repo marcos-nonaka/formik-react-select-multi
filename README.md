@@ -1,4 +1,4 @@
-# formik & react-select multi (Typescript)
+# formik & react-select multi
 
 This project has been created to demonstrate the use of react-select's multi property with Formik. The field value is formatted as an array of strings.
 
